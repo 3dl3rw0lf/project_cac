@@ -1,7 +1,7 @@
 export const links = {
 	pages: [
 		{
-			page: "Inicio",
+			page: "MUSIC One",
 			link: "/index.html",
 		},
 		{
